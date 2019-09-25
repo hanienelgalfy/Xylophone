@@ -20,6 +20,7 @@ class ViewController: UIViewController{
        }
     }
     @objc func playsound(){
+        //using tagss is left (_ sender: UIView)
         print("hi")
     }
     
