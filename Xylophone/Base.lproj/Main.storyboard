@@ -73,13 +73,13 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outletCollection property="collection" destination="8CJ-l9-6vL" collectionClass="NSMutableArray" id="eQd-3c-uYj"/>
-                        <outletCollection property="collection" destination="vbf-dm-VXJ" collectionClass="NSMutableArray" id="YUp-qB-kpS"/>
-                        <outletCollection property="collection" destination="YGd-Yw-0YE" collectionClass="NSMutableArray" id="55i-V4-goR"/>
-                        <outletCollection property="collection" destination="Mng-rv-3Pn" collectionClass="NSMutableArray" id="6KZ-sP-f4r"/>
-                        <outletCollection property="collection" destination="cSy-Jj-7DU" collectionClass="NSMutableArray" id="F8Y-xt-g66"/>
-                        <outletCollection property="collection" destination="G1z-jH-Hqy" collectionClass="NSMutableArray" id="si0-iR-asY"/>
-                        <outletCollection property="collection" destination="GI2-0w-aF7" collectionClass="NSMutableArray" id="LI1-Q7-wLG"/>
+                        <outletCollection property="collection" destination="8CJ-l9-6vL" collectionClass="NSMutableArray" id="Tos-PY-vU5"/>
+                        <outletCollection property="collection" destination="vbf-dm-VXJ" collectionClass="NSMutableArray" id="4ac-BR-0au"/>
+                        <outletCollection property="collection" destination="YGd-Yw-0YE" collectionClass="NSMutableArray" id="66d-yc-xNn"/>
+                        <outletCollection property="collection" destination="Mng-rv-3Pn" collectionClass="NSMutableArray" id="UCr-4H-EkC"/>
+                        <outletCollection property="collection" destination="cSy-Jj-7DU" collectionClass="NSMutableArray" id="Cdu-yR-HHy"/>
+                        <outletCollection property="collection" destination="G1z-jH-Hqy" collectionClass="NSMutableArray" id="h1i-ed-sSd"/>
+                        <outletCollection property="collection" destination="GI2-0w-aF7" collectionClass="NSMutableArray" id="Upx-BJ-5Cy"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
